@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Train"
+    },
+    {
+        "id": 2,
+        "name": "Training Facility"
+    },
+    {
+        "id": 3,
+        "name": "Facility Basement"
+    },
+    {
+        "id": 4,
+        "name": "Laboratory"
+    },
+    {
+        "id": 5,
+        "name": "Factory"
+    },
+    {
+        "id": 6,
+        "name": "Treatment Plant"
+    }
+]

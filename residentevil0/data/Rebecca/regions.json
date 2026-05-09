@@ -1,0 +1,470 @@
+[
+    {
+        "name": "Menu",
+        "zone_id": 1
+    },
+    {
+        "name": "Passenger Car 1",
+        "zone_id": 1
+    },
+    {
+        "name": "Passenger Car 2",
+        "zone_id": 1
+    },
+    {
+        "name": "Officer's Car",
+        "zone_id": 1
+    },
+    {
+        "name": "Cabin 201",
+        "zone_id": 1
+    },
+    {
+        "name": "Cabin 202",
+        "zone_id": 1
+    },
+    {
+        "name": "Conductor's Office",
+        "zone_id": 1
+    },
+    {
+        "name": "Engine Carriage",
+        "zone_id": 1
+    },
+    {
+        "name": "Engine Cab",
+        "zone_id": 1
+    },
+    {
+        "name": "Dining Car",
+        "zone_id": 1
+    },
+    {
+        "name": "Freight Car",
+        "zone_id": 1
+    },
+    {
+        "name": "Rear Carriage",
+        "zone_id": 1
+    },
+    {
+        "name": "Bar Lounge",
+        "zone_id": 1
+    },
+    {
+        "name": "Upstairs Passenger Car",
+        "zone_id": 1
+    },
+    {
+        "name": "Cabin 101",
+        "zone_id": 1
+    },
+    {
+        "name": "Cabin 102",
+        "zone_id": 1
+    },
+    {
+        "name": "Service Room",
+        "zone_id": 1
+    },
+    {
+        "name": "Restaurant Car",
+        "zone_id": 1
+    },
+    {
+        "name": "Dining Car Roof",
+        "zone_id": 1
+    },
+    {
+        "name": "Officer's Car Roof",
+        "zone_id": 1
+    },
+    {
+        "name": "Train Passage",
+        "zone_id": 2
+    },
+    {
+        "name": "Sewer Passage",
+        "zone_id": 2
+    },
+    {
+        "name": "Main Hall",
+        "zone_id": 2
+    },
+    {
+        "name": "West Wing Corridor",
+        "zone_id": 2
+    },
+    {
+        "name": "Bathroom",
+        "zone_id": 2
+    },
+    {
+        "name": "Projection Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Dining Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Kitchen",
+        "zone_id": 2
+    },
+    {
+        "name": "Boiler Room",
+        "zone_id": 2
+    },
+    {
+        "name": "1F Storage Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Training Facility Entrance",
+        "zone_id": 2
+    },
+    {
+        "name": "Large Hall",
+        "zone_id": 2
+    },
+    {
+        "name": "Art Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Private Study Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Living Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Lecture Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Outside Balcony",
+        "zone_id": 2
+    },
+    {
+        "name": "Narrow Corridor A",
+        "zone_id": 2
+    },
+    {
+        "name": "Narrow Corridor B",
+        "zone_id": 2
+    },
+    {
+        "name": "Broadcast Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Piano Bar",
+        "zone_id": 2
+    },
+    {
+        "name": "Maintenance Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Old Laboratory",
+        "zone_id": 2
+    },
+    {
+        "name": "Private Corridor",
+        "zone_id": 2
+    },
+    {
+        "name": "Marcus' Office",
+        "zone_id": 2
+    },
+    {
+        "name": "Medicine Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Art Corridor",
+        "zone_id": 2
+    },
+    {
+        "name": "Main Library",
+        "zone_id": 2
+    },
+    {
+        "name": "Small Library",
+        "zone_id": 2
+    },
+    {
+        "name": "Assistant Director's Office",
+        "zone_id": 2
+    },
+    {
+        "name": "Clock Room",
+        "zone_id": 2
+    },
+    {
+        "name": "Fountain Area",
+        "zone_id": 2
+    },
+    {
+        "name": "Observatory Tower",
+        "zone_id": 2
+    },
+    {
+        "name": "Basement Entrance",
+        "zone_id": 3
+    },
+    {
+        "name": "Observation Room",
+        "zone_id": 3
+    },
+    {
+        "name": "Torture Room A",
+        "zone_id": 3
+    },
+    
+    {
+        "name": "Monitor Room",
+        "zone_id": 3
+    },
+    {
+        "name": "Torture Room B",
+        "zone_id": 3
+    },
+    {
+        "name": "Statue Room",
+        "zone_id": 3
+    },
+    {
+        "name": "Bunk Room A",
+        "zone_id": 3
+    },
+    {
+        "name": "Bunk Room B",
+        "zone_id": 3
+    },
+    {
+        "name": "Basement Storage Room",
+        "zone_id": 3
+    },
+    {
+        "name": "Cavernous Area",
+        "zone_id": 3
+    },
+    {
+        "name": "Waterfall Room",
+        "zone_id": 3
+    },
+    {
+        "name": "Training Room",
+        "zone_id": 3
+    },
+    {
+        "name": "Outside Area",
+        "zone_id": 4
+    },
+    {
+        "name": "Church",
+        "zone_id": 4
+    },
+    {
+        "name": "Church Back Room",
+        "zone_id": 4
+    },
+    {
+        "name": "Church Roof",
+        "zone_id": 4
+    },
+    {
+        "name": "Morgue",
+        "zone_id": 4
+    },
+    {
+        "name": "Operating Room",
+        "zone_id": 4
+    },
+    {
+        "name": "Leech Laboratory",
+        "zone_id": 4
+    },
+    {
+        "name": "Lab Corridor",
+        "zone_id": 4
+    },
+    {
+        "name": "Leech Room",
+        "zone_id": 4
+    },
+    {
+        "name": "Machine Room 2F",
+        "zone_id": 4
+    },
+    {
+        "name": "Breeding Room",
+        "zone_id": 4
+    },
+    {
+        "name": "Machine Room 1F",
+        "zone_id": 4
+    },
+ 
+    
+    {
+        "name": "Cable Car",
+        "zone_id": 4
+    },
+    {
+        "name": "Elevator Passage",
+        "zone_id": 4
+    },
+    {
+        "name": "Reference Room",
+        "zone_id": 4
+    },
+    {
+        "name": "Marcus' Study",
+        "zone_id": 4
+    },
+    {
+        "name": "Marcus' Private Room",
+        "zone_id": 4
+    },
+    {
+        "name": "Platform",
+        "zone_id": 5
+    },
+    {
+        "name": "Turntable Yard",
+        "zone_id": 5
+    },
+    {
+        "name": "Turntable Control Room",
+        "zone_id": 5
+    },
+    {
+        "name": "Maintenance Shaft",
+        "zone_id": 5
+    },
+    {
+        "name": "Turntable Monitor Room",
+        "zone_id": 5
+    },
+    {
+        "name": "Turntable Platform",
+        "zone_id": 5
+    },
+    {
+        "name": "Elevator",
+        "zone_id": 5
+    },
+    {
+        "name": "Bridge",
+        "zone_id": 6
+    },
+    {
+        "name": "Treatment Control Room",
+        "zone_id": 6
+    },
+    {
+        "name": "Generator Room 2F",
+        "zone_id": 6
+    },
+    {
+        "name": "Air Regulator Room",
+        "zone_id": 6
+    },
+    {
+        "name": "'L' Corridor",
+        "zone_id": 6
+    },
+    {
+        "name": "Generator Room 1F",
+        "zone_id": 6
+    },
+    {
+        "name": "Rec Room",
+        "zone_id": 6
+    },
+    {
+        "name": "B6 Walkway",
+        "zone_id": 6
+    },
+    
+    {
+        "name": "Lodgings",
+        "zone_id": 6
+    },
+    {
+        "name": "Purification Room",
+        "zone_id": 6
+    },
+    {
+        "name": "B7 Walkway",
+        "zone_id": 6
+    },
+    {
+        "name": "Cargo Control Room",
+        "zone_id": 6
+    },
+    {
+        "name": "Maintenance Area",
+        "zone_id": 6
+    },
+    {
+        "name": "Water Pool",
+        "zone_id": 6
+    },
+    {
+        "name": "Stairway",
+        "zone_id": 6
+    },
+    {
+        "name": "Water Treatment Walkway",
+        "zone_id": 6
+    },
+    {
+        "name": "Floodgate Control Room",
+        "zone_id": 6
+    },
+    {
+        "name": "TP Laboratory",
+        "zone_id": 6
+    },
+    {
+        "name": "Dumping Area",
+        "zone_id": 6
+    },
+    {
+        "name": "Water Treatment Room",
+        "zone_id": 6
+    },
+    {
+        "name": "Dam",
+        "zone_id": 6
+    },
+    {
+        "name": "Engine Room",
+        "zone_id": 6
+    },
+    {
+        "name": "Laboratory Cryo Room",
+        "zone_id": 6
+    },
+    {
+        "name": "Fenced Area",
+        "zone_id": 6
+    },
+    {
+        "name": "Incinerator",
+        "zone_id": 6
+    },
+    {
+        "name": "Incinerator Storage",
+        "zone_id": 6
+    },
+    {
+        "name": "Cargo Room",
+        "zone_id": 6
+    }
+]

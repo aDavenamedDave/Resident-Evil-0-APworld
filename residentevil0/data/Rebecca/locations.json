@@ -1,0 +1,2277 @@
+[
+    {
+        "name": "OFC - Slumped Dead Man",  
+        "region": "Officer's Car",
+        "original_item": "Dining Car Key",
+        "condition": {},
+       
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": {}
+    },
+    {
+        "name": "OFC - Edward",  
+        "region": "Officer's Car",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": {}
+        
+    },
+    {
+        "name": "RC - Billy Saves",
+        "region": "Restaurant Car",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": ""
+        
+    },
+    {
+        "name": "SR - Bench next to Lift",
+        "region": "Service Room",
+        "original_item": "Green Herb",
+        "condition": {
+            "items" :[]
+        },
+        
+        "item_object": "i047",
+        "parent_object": "",
+        "folder_path": ""
+        
+    },
+    {
+        "name": "SR - North Side Bench",
+        "region": "Service Room",
+        "original_item": "Handgun Ammo",
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+        
+    },
+    {
+        "name": "SR - Ledge next to Door",
+        "region": "Service Room",
+        "original_item": "Conductor's Key",
+        "condition": {},
+        
+        "item_object": "i017",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+    },
+    
+    {
+        "name": "CO - Green on Ledge",
+        "region": "Conductor's Office",
+        "original_item": "Green Herb",
+        
+        "condition": {},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+    },
+    {
+        "name": "CO - Red on Ledge",
+        "region": "Conductor's Office",
+        "original_item": "Red Herb",
+        "condition": {},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+    },
+    {
+        "name": "CO - Closet",
+        "region": "Conductor's Office",
+        "original_item": "Briefcase - Blue Keycard",
+        "condition": {},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": ""
+    },
+    {
+        "name": "UPC - Small Trolley",
+        "region": "Upstairs Passenger Car",
+        "original_item": "Ice Pick",
+        "condition": {},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+
+    {
+        "name": "UPC - Table Herb",
+        "region": "Upstairs Passenger Car",
+        "original_item": "Green Herb",
+        "condition": {},  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "101 - Sink",
+        "region": "Cabin 101",
+        "original_item": "First Aid Spray",
+        "condition": {},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+    },
+        {
+        "name": "101 - Handgun Ammo Floor",
+        "region": "Cabin 101",
+        "original_item": "Handgun Ammo",
+        "condition": {},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": []
+    },
+    {
+        "name": "101 - North West Corner",
+        "region": "Cabin 101",
+        "original_item": "Ink Ribbon",
+        "condition": {},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": ""
+    },
+      {
+        "name": "101 - Shotgun Shells Floor",
+        "region": "Cabin 101",
+        "original_item": "Shotgun Shells",
+        "condition": {
+            "items":[]}, 
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    }, 
+    {
+        "name": "101 - On Bed",
+        "region": "Cabin 101",
+        "original_item": "Hunting Gun",
+        "condition": {
+            "items":[]},
+        
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "DC - Fridge",
+        "region": "Dining Car",
+        "original_item": "Empty Bottle",
+        "condition": {
+            "items":["Panel Opener"]},
+        
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "BAR - Wreckage",
+        "region": "Bar Lounge",
+        "original_item": "Panel Opener",
+        "condition": {},
+        
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+  
+    {
+        "name": "201 - Next to Typewriter",
+        "region": "Cabin 201",
+        "original_item": "Ink Ribbon",
+        "condition": {
+            "items":[]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+    },
+    {
+        "name": "201 - Floor by Bed",
+        "region": "Cabin 201",
+        "original_item": "Green Herb",
+        "condition": {
+            "items":[]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": ""
+    },
+    {
+        "name": "202 - Jacket",
+        "region": "Cabin 202",
+        "original_item": "Ink Ribbon",
+        "condition": {
+            "items":[]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+    },
+    {
+        "name": "202 - Floor by Bed",
+        "region": "Cabin 202",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            "items":[]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+    },
+    {
+        "name": "FRE - Second Kennel",
+        "region": "Freight Car",
+        "original_item": "Gold Ring",
+        "condition": {
+            "items":[]},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+    },
+    {
+        "name": "FRE - Spray on Shelf",
+        "region": "Freight Car",
+        "original_item": "First Aid Spray",
+        "condition": {
+            "items":[]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    
+    {
+        "name": "FRE - Shells on Shelf",
+        "region": "Freight Car",
+        "original_item": "Shotgun Shells",
+        "condition": {
+            "items":[]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+    },
+   {
+        "name": "FRE - Floor by Shelf",
+        "region": "Freight Car",
+        "original_item": "Gas Tank",
+        "condition": {
+            
+        }, 
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "REAR - Mount",
+        "region": "Rear Carriage",
+        "original_item": "Hookshot",
+        "condition": {
+            "items":["Ice Pick"]
+        },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "102 - Floor",
+        "region": "Cabin 102",
+        "original_item": "Knife",
+        "condition": {},  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "102 - Closet",
+        "region": "Cabin 102",
+        "original_item": "Jewelry Box - Silver Ring",
+        "condition": {
+            
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "EC - Cabinet Floor",
+        "region": "Engine Cab",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            
+        },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+        {
+        "name": "EC - North East Corner",
+        "region": "Engine Cab",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+     {
+        "name": "EC - Control Panel",
+        "region": "Engine Cab",
+        "original_item": "Magnetic Card",
+        "condition": {
+            
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":"Magnetic Card"
+    },
+        {
+        "name": "MH - Ribbon by Typewriter",
+        "region": "Main Hall",
+        "original_item": "Ink Ribbon",
+        "condition": {},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+   
+    {
+        "name": "MH - Ammo by Typewriter",
+        "region": "Main Hall",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MH - Green on Floor",
+        "region": "Main Hall",
+        "original_item": "Green Herb",
+        "condition": {},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+        
+    },
+    {
+        "name": "MH - Red on Floor",
+        "region": "Main Hall",
+        "original_item": "Red Herb",
+        "condition": {},  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+        
+    },
+    {
+        "name": "BR - Middle of Floor",
+        "region": "Bathroom",
+        "original_item": "Empty Bottle",
+        "condition": {
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+      {
+        "name": "BR - Herb on Floor",
+        "region": "Bathroom",
+        "original_item": "Green Herb",
+        "condition": {
+            
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+      {
+        "name": "BR - Gas Tank on Floor",
+        "region": "Bathroom",
+        "original_item": "Gas Tank",
+        "condition": {
+            
+        }, 
+        
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "DR - On Table",
+        "region": "Dining Room",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            
+        }, 
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+
+
+    {
+        "name": "1FSR - Ornamental Table",
+        "region": "1F Storage Room",
+        "original_item": "Black Statue",
+        "condition": {
+            
+        }, 
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    
+  
+    {
+        
+        "name": "1FSR - Propped by Shelf",
+        "region": "1F Storage Room",
+        "original_item": "Shotgun",
+        "condition": {
+            
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+        
+    
+    },
+    {
+        "name": "1FSR - Floor",
+        "region": "1F Storage Room",
+        "original_item": "Gas Tank",
+        "condition": {
+            
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+        
+    },
+    {
+        "name": "OUTB - Left Herb in Offshoot",
+        "region": "Outside Balcony",
+        "original_item": "Green Herb",
+        "condition": {
+            
+        },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    
+    {
+        "name": "OUTB - Right Herb in Offshoot",
+        "region": "Outside Balcony",
+        "original_item": "Green Herb",
+        "condition": {
+            
+        },  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    
+    {
+        "name": "LEC - Table next to Typewriter",
+        "region": "Lecture Room",
+        "original_item": "Ink Ribbon",
+        "condition": {
+            
+        },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LEC - Floor next to Typewriter",
+        "region": "Lecture Room",
+        "original_item": "Shotgun Shells",
+        "condition": {
+            
+        },   
+        
+        
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MLIB - On Bench",
+        "region": "Main Library",
+        "original_item": "Microfilm A",
+        "condition": {
+            "locations":[]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MLIB - Computer Desks",
+        "region": "Main Library",
+        "original_item": "Ink Ribbon",
+        "condition": {
+            "locations":[]
+        },  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    
+    {
+        "name": "LR - Small Cupboard",
+        "region": "Living Room",
+        "original_item": "Crank Handle",
+        "condition": {        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+        
+    },
+    
+    {
+        "name": "CR - Table",
+        "region": "Clock Room",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            
+        },  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "FA - Green near Fountain",
+        "region": "Fountain Area",
+        "original_item": "Green Herb",
+        "condition": {
+            
+        },  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "FA - Red near Fountain",
+        "region": "Fountain Area",
+        "original_item": "Red Herb",
+        "condition": {
+            
+        }, 
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LH - Cage",
+        "region": "Large Hall",
+        "original_item": "Fire Key",
+        "condition": {
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "ART - Couch",
+        "region": "Art Room",
+        "original_item": "Grenade Launcher - Grenade",
+        "condition": {
+            "locations":["42 - Fireplace in Plant Room"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "ART - Fireplace",
+        "region": "Art Room",
+        "original_item": "Shotgun Shells",
+        "condition": {
+            "locations":[]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "ART - Small Round Table",
+        "region": "Art Room",
+        "original_item": "White Statue",
+        "condition": {
+            "locations":[]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+     {
+        "name": "KIT - On Table",
+        "region": "Kitchen",
+        "original_item": "Lighter Fluid",
+        "condition": {},  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+     {
+        "name": "KIT - Shelf",
+        "region": "Kitchen",
+        "original_item": "Empty Bottle",
+        "condition": {},   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "ADO - Desk Opposite Fireplace",
+        "region": "Assistant Director's Office",
+        "original_item": "Handgun Ammo",
+        "condition": {},  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "ADO - Desk in Southwest Corner",
+        "region": "Assistant Director's Office",
+        "original_item": "Shotgun Shells",
+        "condition": {},  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "ADO - Moose Mount",
+        "region": "Assistant Director's Office",
+        "original_item": "Iron Needle",
+        "condition": {}, 
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "SLIB - Bookshelf",
+        "region": "Small Library",
+        "original_item": "Grenade Rounds",
+        "condition": {}, 
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "SLIB - Behind Moveable Bookcase",
+        "region": "Small Library",
+        "original_item": "Book of Good - Angel Wings",
+        "condition": {},  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "PSR - Mantelpiece",
+        "region": "Private Study Room",
+        "original_item": "Microfilm B",
+         "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+        
+    },
+    {
+        "name": "PSR - North East Corner Floor",
+        "region": "Private Study Room",
+        "original_item": "Shotgun Shells",
+        "condition": {}, 
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "PR - Table",
+        "region": "Projection Room",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            "items":[]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "PR - Projector",
+        "region": "Projection Room",
+        "original_item": "MO Disk",
+        "condition": {
+            "items":["Microfilm A", "Microfilm B"]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MR - Medicine Cabinet",
+        "region": "Medicine Room",
+        "original_item": "First Aid Spray",
+        "condition": {}, 
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MR - Blue Herb Left",
+        "region": "Medicine Room",
+        "original_item": "Blue Herb",
+        "condition": {},  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MR - Blue Herb Right",
+        "region": "Medicine Room",
+        "original_item": "Blue Herb",
+        "condition": {},  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MO - East Cabinet",
+        "region": "Marcus' Office",
+        "original_item": "Handgun Ammo",
+        "condition": {}, 
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MO - Top of Cabinet",
+        "region": "Marcus' Office",
+        "original_item": "Napalm Rounds",
+        "condition": {},   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MO - Circular Table",
+        "region": "Marcus' Office",
+        "original_item": "Ink Ribbon",
+        "condition": {},  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MO - Chess Board",
+        "region": "Marcus' Office",
+        "original_item": "Book of Evil - Black Wing",
+        "condition": {}, 
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+    },
+    {
+        "name": "TFE - Pillar",
+        "region": "Training Facility Entrance",
+        "original_item": "Discipline Tablet",
+        "condition": {
+            "items":["Battery"]
+        },  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+        
+    },
+    {
+        "name": "MON - Floor Next to Locker",
+        "region": "Monitor Room",
+        "original_item": "Gas Tank",
+        "condition": {},   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+        
+    },
+    {
+        "name": "MON - Table Left",
+        "region": "Monitor Room",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            "items":[]
+        },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MON - Table Middle",
+        "region": "Monitor Room",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            "items":[]
+        },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MON - Table Right",
+        "region": "Monitor Room",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            "items":[]
+        },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MON - South East Floor",
+        "region": "Monitor Room",
+        "original_item": "Shotgun Shells",
+        "condition": {},  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "OBS - Green by Typewriter",
+        "region": "Observation Room",
+        "original_item": "Green Herb",
+        "condition": {},  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "OBS - Blue by Typewriter",
+        "region": "Observation Room",
+        "original_item": "Blue Herb",
+        "condition": {},    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "OBS - Next to Typewriter",
+        "region": "Observation Room",
+        "original_item": "Ink Ribbon",
+        "condition": { },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "STA - South West Corner",
+        "region": "Statue Room",
+        "original_item": "Handgun Ammo",
+        "condition": { },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "BUNA - Desk",
+        "region": "Bunk Room A",
+        "original_item": "Empty Bottle",
+        "condition": { },  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "BUNA - Fireplace",
+        "region": "Bunk Room A",
+        "original_item": "Unity Tablet",
+        "condition": {
+            "items":[]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "BSR - Wooden Boxes",
+        "region": "Basement Storage Room",
+        "original_item": "Ink Ribbon",
+        "condition": {
+            
+        },  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "WR - Wooden Box",
+        "region": "Waterfall Room",
+        "original_item": "Locker Key",
+        "condition": {
+            
+        },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TRR - Bench Upstairs Control Left",
+        "region": "Training Room",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            
+        },  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TRR - Bench Upstairs Control Right",
+        "region": "Training Room",
+        "original_item": "Handgun Ammo",
+        "condition": {
+            
+        },  
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TRR - Bench Upstairs North",
+        "region": "Training Room",
+        "original_item": "Shotgun Shells",
+        "condition": {
+            "items":[]
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+        
+    },
+    {
+        "name": "TRR - Cupboard Upstairs",
+        "region": "Training Room",
+        "original_item": "Magnum Rounds",
+        "condition": {
+            
+        },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TRR - Locked Locker",
+        "region": "Training Room",
+        "original_item": "Duralumin Case",
+        "condition": {
+            
+        },   
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TRR - South East Caged Area",
+        "region": "Training Room",
+        "original_item": "Acid Rounds",
+        "condition": {
+            
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TRR - North West Floor",
+        "region": "Training Room",
+        "original_item": "Water Key",
+        "condition": {
+            
+        },    
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "BRO - Shelves",
+        "region": "Broadcast Room",
+        "original_item": "Vise Handle",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "PB - Barrel inside Secret",
+        "region": "Piano Bar",
+        "original_item": "Magnum Rounds",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "PB - Floor inside Secret",
+        "region": "Piano Bar",
+        "original_item": "Empty Bottle",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "PB - Slot inside Secret",
+        "region": "Piano Bar",
+        "original_item": "Battery",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "OL - South West Table",
+        "region": "Old Laboratory",
+        "original_item": "First Aid Spray",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "OL - East Table",
+        "region": "Old Laboratory",
+        "original_item": "Handgun Ammo",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "OL - Green on Floor",
+        "region": "Old Laboratory",
+        "original_item": "Green Herb",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "OL - Red on Floor",
+        "region": "",
+        "original_item": "Red Herb",
+        "condition":{
+            "items":[]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "OL - Bottle on Floor",
+        "region": "Old Laboratory",
+        "original_item": "Empty Bottle",
+        "condition":{
+            "items":[]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MAR - Shelves",
+        "region": "Maintenance Room",
+        "original_item": "Shotgun Shells",
+        "condition":{
+            "items":[]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MAR - Vise",
+        "region": "Maintenance Room",
+        "original_item": "Obedience Tablet",
+        "condition":{
+            "items":["Vise Handle"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "OBT - Boxes",
+        "region": "Observatory Tower",
+        "original_item": "Handgun Ammo",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "OUTA - Behind Chruch",
+        "region": "Outside Area",
+        "original_item": "Red Herb",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "CBR - Shelves",
+        "region": "Church Back Room",
+        "original_item": "Ink Ribbon",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "CBR - Napalm on Floor",
+        "region": "Church Back Room",
+        "original_item": "Napalm Rounds",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "CBR - Shells on Floor",
+        "region": "Church Back Room",
+        "original_item": "Shotgun Shells",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "EP - Green on Floor",
+        "region": "Elevator Passage",
+        "original_item": "Green Herb",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "EP - Red on Floor",
+        "region": "Elevator Passage",
+        "original_item": "Red Herb",
+        "condition":{
+            
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "REFR - Small Desk",
+        "region": "Reference Room",
+        "original_item": "Ink Ribbon",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MS - Drawer",
+        "region": "Marcus' Study",
+        "original_item": "Handgun Ammo",
+        "condition":{  },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MS - Bookcase",
+        "region": "Marcus' Study",
+        "original_item": "Input Reg. Coil",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MPR - Statue",
+        "region": "Marcus' Private Room",
+        "original_item": "Green Leech Charm",
+        "condition":{
+            "items":[]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MR1F - Floor next to Cable Car",
+        "region": "Machine Room 1F",
+        "original_item": "Output Reg. Coil",
+        "condition":{
+            "items":[]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LER - Lower Shelf",
+        "region": "Leech Room",
+        "original_item": "Gas Tank",
+        "condition":{
+            "items":[]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LER - Shelf Opposite Capsules",
+        "region": "Leech Room",
+        "original_item": "Empty Bottle",
+        "condition":{
+            "items":[]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LER - Leech Capsule",
+        "region": "Leech Room",
+        "original_item": "Leech Capsule - Blue Leech Charm",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LLAB - Shelves",
+        "region": "Leech Laboratory",
+        "original_item": "Shotgun Shells",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LLAB - Gas Chamber",
+        "region": "Leech Laboratory",
+        "original_item": "Breeding Room Key",
+        "condition":{
+            "items":["Sterilizing Agent"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "OR - Shelf",
+        "region": "Operating Room",
+        "original_item": "First Aid Spray",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MORG - Floor South",
+        "region": "Morgue",
+        "original_item": "Sterilizing Agent",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MORG - Stretcher Left",
+        "region": "Morgue",
+        "original_item": "Handgun Ammo",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+        
+    },
+    {
+        "name": "MORG - Stretcher Right",
+        "region": "Morgue",
+        "original_item": "Handgun Ammo",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "BRE - Cage",
+        "region": "Breeding Room",
+        "original_item": "Dial",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MR2F - Next to Typewriter",
+        "region": "Machine Room 2F",
+        "original_item": "Ink Ribbon",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MR2F - Floor by Railing",
+        "region": "Machine Room 2F",
+        "original_item": "Empty Bottle",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MR2F - Floor by Window",
+        "region": "Machine Room 2F",
+        "original_item": "Green Herb",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MR2F - Floor by Control Room",
+        "region": "Machine Room 2F",
+        "original_item": "Gas Tank",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MR2F - By Locker",
+        "region": "Machine Room 2F",
+        "original_item": "Shotgun Shells",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MR2F - Floor in Control Room",
+        "region": "Machine Room 2F",
+        "original_item": "Output Reg. Coil",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+        
+    },
+    {
+        "name": "CC - Dead Body",
+        "region": "Cable Car",
+        "original_item": "Magnum",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "PLA - Left Herb on Ground",
+        "region": "Platform",
+        "original_item": "Green Herb",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "PLA - Right Herb on Ground",
+        "region": "Platform",
+        "original_item": "Green Herb",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TCR - Desk next to Console",
+        "region": "Turntable Control Room",
+        "original_item": "Ink Ribbon",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TCR - Wall Cabinet",
+        "region": "Turntable Control Room",
+        "original_item": "First Aid Spray",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TCR - Top of Console",
+        "region": "Turntable Control Room",
+        "original_item": "Handgun Ammo",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TCR - Corner Floor",
+        "region": "Turntable Control Room",
+        "original_item": "Grenade Rounds",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MAS - Floor by Elevator",
+        "region": "Maintenance Shaft",
+        "original_item": "Magnum Rounds",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MAS - Oil Drum",
+        "region": "Maintenance Shaft",
+        "original_item": "Handgun Ammo",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MAS - Green by West Door",
+        "region": "Maintenance Shaft",
+        "original_item": "Green Herb",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MAS - Red by Entrance",
+        "region": "Maintenance Shaft",
+        "original_item": "Red Herb",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TMR - Floor by Monitors",
+        "region": "Turntable Monitor Room",
+        "original_item": "Up Key",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TP - By West Elevator",
+        "region": "Turntable Platform",
+        "original_item": "Elevator Key",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TCON - Floor by Door",
+        "region": "Treatment Control Room",
+        "original_item": "Gas Tank",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TCON - By Typewriter",
+        "region": "Treatment Control Room",
+        "original_item": "Ink Ribbon",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "TCON - Desk Ammo",
+        "region": "Treatment Control Room",
+        "original_item": "Handgun Ammo",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "ARR - Western Wall Floor",
+        "region": "Air Regulator Room",
+        "original_item": "Empty Bottle",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "ARR - Green by South West Door",
+        "region": "Air Regulator Room",
+        "original_item": "Green Herb",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "ARR - Red by South West Door",
+        "region": "Air Regulator Room",
+        "original_item": "Red Herb",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "REC - Small Round Table",
+        "region": "Rec Room",
+        "original_item": "Empty Bottle",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "GEN1F - South East Corner",
+        "region": "Generator Room 1F",
+        "original_item": "Handgun Ammo",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "GEN2F - Left Herb",
+        "region": "Generator Room 2F",
+        "original_item": "Green Herb",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "GEN2F - Right Herb",
+        "region": "Generator Room 2F",
+        "original_item": "Green Herb",
+        "condition":{},
+
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LOD - North Bed Floor",
+        "region": "Lodgings",
+        "original_item": "Handgun Ammo",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[]
+        
+    },
+    {
+        "name": "LOD - South West Bunk",
+        "region": "Lodgings",
+        "original_item": "Ink Ribbon",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LOD - Under South West Bunk",
+        "region": "Lodgings",
+        "original_item": "Napalm Rounds",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LOD - North Table",
+        "region": "Lodgings",
+        "original_item": "First Aid Spray",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LOD - Green on Floor",
+        "region": "Lodgings",
+        "original_item": "Green Herb",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LOD - Red on Floor",
+        "region": "Lodgings",
+        "original_item": "Red Herb",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "CCR - Box",
+        "region": "Cargo Control Room",
+        "original_item": "Shotgun Shells",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "WTW - Ground by Circuit",
+        "region": "Water Treatment Walkway",
+        "original_item": "Motherboard",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MAA - Green on Floor",
+        "region": "Maintenance Area",
+        "original_item": "Green Herb",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MAA - Red on Floor",
+        "region": "Maintenance Area",
+        "original_item": "Red Herb",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "MAA - Ledge by Forklift",
+        "region": "Maintenance Area",
+        "original_item": "Red Keycard",
+        "condition":{
+            "items":["Empty Battery"]
+        },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "WP - In Locker",
+        "region": "Water Pool",
+        "original_item": "Shotgun Shells",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "WP - Platform",
+        "region": "Water Pool",
+        "original_item": "Handle",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item":[],
+        "force_item":""
+    },
+    {
+        "name": "LAB - Under Desks",
+        "region": "Laboratory",
+        "original_item": "Acid Rounds",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "LAB - On Desk",
+        "region": "Laboratory",
+        "original_item": "Industrial Water",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "FCR - By Stairs",
+        "region": "Floodgate Control Room",
+        "original_item": "Acid Rounds",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "LCR - High Shelf",
+        "region": "Laboratory Cryo Room",
+        "original_item": "Empty Battery",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "ER - SE Corner",
+        "region": "Engine Room",
+        "original_item": "Shotgun Shells",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "ER - NW Corner",
+        "region": "Engine Room",
+        "original_item": "Handgun Ammo",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "DAM - Left Herb",
+        "region": "Dam",
+        "original_item": "Green Herb",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "DAM - Right Herb",
+        "region": "Dam",
+        "original_item": "Green Herb",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "FENA - NW Corner",
+        "region": "Fenced Area",
+        "original_item": "Magnum Rounds",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "IN - SE Corner",
+        "region": "Incinerator",
+        "original_item": "Magnum Rounds",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "IN - 'L' Key",
+        "region": "Incinerator",
+        "original_item": "Shaft Key (L)",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "IN - 'R' Key",
+        "region": "Incinerator",
+        "original_item": "Shaft Key (R)",
+        "condition":{ },
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "INS - By Typewriter",
+        "region": "Incinerator Storage",
+        "original_item": "Ink Ribbon",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "INS - Ammo by Typewriter",
+        "region": "Incinerator Storage",
+        "original_item": "Handgun Ammo",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "INS - Left Spray",
+        "region": "Incinerator Storage",
+        "original_item": "First Aid Spray",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "INS - Right Spray",
+        "region": "Incinerator Storage",
+        "original_item": "First Aid Spray",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "INS - Shells on SE Shelf",
+        "region": "Incinerator Storage",
+        "original_item": "Shotgun Shells",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "INS - Grenades on SE Shelf",
+        "region": "Incinerator Storage",
+        "original_item": "Grenade Rounds",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "INS - Green on Floor",
+        "region": "Incinerator Storage",
+        "original_item": "Green Herb",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+    {
+        "name": "INS - Red on Floor",
+        "region": "Incinerator Storage",
+        "original_item": "Red Herb",
+        "condition":{},
+        "item_object": "",
+        "parent_object": "",
+        "folder_path": "",
+        "forbid_item": [],
+        "force_item":""
+    },
+       {
+        "name": "Victory",
+        "region": "Cargo Room",
+        "condition": {
+            "items": ["Microfilm A", "Microfilm B", "Fire Key", "Water Key", "Empty Battery", "Battery", "Ice Pick", "Panel Opener",
+                "Sterilizing Agent", "Vise Handle", "Shaft Key (L)", "Shaft Key(R)", "White Statue", "Black Statue", "Book of Good - Angel Wings", "Book of Evil - Black Wing",
+                 "Input Reg. Coil", "Output Reg. Coil"]
+        },
+        "id": null,
+        "victory": true
+    }
+]
+
+
+
+
+
+
+
+
+
+
+

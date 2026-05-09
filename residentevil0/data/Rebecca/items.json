@@ -1,0 +1,521 @@
+[ 
+    {
+        "type": "Gating",
+        "name": "Gold Ring",
+        "decimal": "57",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Jewelry Box - Silver Ring",
+        "decimal": "122",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Briefcase - Blue Keycard",
+        "decimal": "59", 
+		"itemval": "3",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Lighter Fluid",
+        "decimal": "63", 
+        "count": 1,
+        "progression": 1
+    },
+	{
+        "type": "Key",
+        "name": "Fire Key",
+        "decimal": "68",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Breeding Room Key",
+        "decimal": "66",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Elevator Key",
+        "decimal": "67",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Water Key",
+        "decimal": "70",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Leech Capsule - Blue Leech Charm",
+        "decimal": "71",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Green Leech Charm",
+        "decimal": "72",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Up Key",
+        "decimal": "73",
+		"itemval": "79",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Red Keycard",
+        "decimal": "76",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Magnetic Card",
+        "decimal": "77",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Locker Key",
+        "decimal": "78",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Unity Tablet",
+        "decimal": "79",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Obedience Tablet",
+        "decimal": "80",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Discipline Tablet",
+        "decimal": "81",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Panel Opener",
+        "decimal": "82",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Vise Handle",
+        "decimal": "83",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Crank Handle",
+        "decimal": "86",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Handle",
+        "decimal": "87",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Book of Good - Angel Wings",
+        "decimal": "88",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Book of Evil - Black Wing",
+        "decimal": "89",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Input Reg. Coil",
+        "decimal": "92",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Output Reg. Coil",
+        "decimal": "93",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Battery",
+        "decimal": "94",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Motherboard",
+        "decimal": "97",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Microfilm A",
+        "decimal": "99",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Dining Car Key",
+        "decimal": "103",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Key",
+        "name": "Hookshot",
+        "decimal": "104",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Conductor's Key",
+        "decimal": "107",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Dial",
+        "decimal": "118",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Consumable",
+        "name": "Duralumin Case",
+        "decimal": "119",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Ice Pick",
+        "decimal": "125",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Iron Needle",
+        "decimal": "126",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Sterilizing Agent",
+        "decimal": "96",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Empty Battery",
+        "decimal": "129",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "White Statue",
+        "decimal": "132",
+        "count": 1,
+        "progression": 1
+    },
+     {
+        "type": "Gating",
+        "name": "Shaft Key (L)",
+        "decimal": "",
+        "count": 1,
+        "progression": 1
+    },
+     {
+        "type": "Gating",
+        "name": "Shaft Key (R)",
+        "decimal": "",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Black Statue",
+        "decimal": "133",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Industrial Water",
+        "decimal": "47",
+		"itemval": "74",
+        "count": 1,
+        "progression": 1
+    },
+    {
+        "type": "Gating",
+        "name": "Black Wing",
+        "decimal": "131",
+        "count": 1,
+        "progression": 0
+    },
+
+    {
+        "type": "Consumable",
+        "name": "MO Disk ",
+        "decimal": "124",
+        "count": 1,
+        "progression": 0
+    },   
+    {
+        "type": "Consumable",
+        "name": "Empty Bottle",
+        "decimal": "38",
+        "count": 1,
+        "progression": 0
+    },   
+    {
+        "type": "Consumable",
+        "name": "Gas Tank",
+        "decimal": "39",
+        "count": 1,
+        "progression": 0
+    },   
+    {
+        "type": "Consumable",
+        "name": "Machinegun Ammo",
+        "decimal": "40",
+        "count": 1,
+        "progression": 0
+    },   
+    {
+        "type": "Consumable",
+        "name": "Ink Ribbon",
+        "decimal": "55",
+		"itemval": "1",
+        "count": 3,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "First Aid Spray",
+        "decimal": "53",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "Green Herb",
+        "decimal": "43",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "Red Herb",
+        "decimal": "45",
+        "count": 1,
+        "progression": 0
+    },
+    {
+        "type": "Recovery",
+        "name": "Blue Herb",
+        "decimal": "44",
+        "count": 1,
+        "progression": 0
+    },
+  
+    {
+        "type": "Weapon",
+        "name": "Handgun (Billy)",
+        "decimal": "3",
+        "count": 15,
+        "progression": 0,
+        "ammo": "Handgun Ammo"
+    },
+    {
+        "type": "Weapon",
+        "name": "Handgun (Rebecca)",
+        "decimal": "4",
+        "count": 15,
+        "progression": 0,
+        "ammo": "Handgun Ammo"
+    },
+	{
+        "type": "Weapon",
+        "name": "Shotgun",
+        "decimal": "06",
+        "count": 7,
+        "progression": 0,
+        "ammo": "Shotgun Shells"
+    },
+    {
+        "type": "Weapon",
+        "name": "Hunting Gun",
+        "decimal": "5",
+        "count": 2,
+        "progression": 0,
+        "ammo": "Shotgun Shells"
+    },
+    {
+        "type": "Weapon",
+        "name": "Magnum Revolver",
+        "decimal": "22",
+        "count": 6,
+        "progression": 0,
+        "ammo": "Magnum Rounds"
+    },
+      {
+        "type": "Weapon",
+        "name": "Magnum",
+        "decimal": "10",
+        "count": 8,
+        "progression": 0,
+        "ammo": "Magnum Rounds"
+    },
+    {
+        "type": "Weapon",
+        "name": "Sub-Machinegun",
+        "decimal": "11",
+        "count": 100,
+        "progression": 0,
+        "ammo": "Machinegun Ammo"
+    },
+    {
+        "type": "Weapon",
+        "name": "Grenade Launcher - Grenade",
+        "decimal": "07",
+		"itemval": "37",
+        "count": 6,
+        "progression": 0,
+        "ammo": "Grenade Rounds"
+    },
+    {
+        "type": "Weapon",
+        "name": "Grenade Launcher - Acid",
+        "decimal": "08",
+        "count": 6,
+        "progression": 0,
+        "ammo": "Acid Rounds"
+    },
+    {
+        "type": "Weapon",
+        "name": "Grenade Launcher - Napalm",
+        "decimal": "09",
+        "count": 6,
+        "progression": 0,
+        "ammo": "Napalm Rounds"
+    },
+   
+    {
+        "type": "Subweapon",
+        "name": "Knife",
+        "decimal": "2",
+        "count": 3,
+        "progression": 0
+    },
+    {
+        "type": "Subweapon",
+        "name": "Molotov",
+        "decimal": "14",
+        "count": 3,
+        "progression": 0
+    },
+
+    {
+        "type": "Ammo",
+        "name": "Handgun Ammo",
+        "decimal": "32",	
+        "count": 15,
+        "progression": 0
+    },
+    {
+        "type": "Ammo",
+        "name": "Grenade Rounds",
+        "decimal": "35",
+        "count": 6,
+        "progression": 0
+    },
+    {
+        "type": "Ammo",
+        "name": "Shotgun Shells",
+        "decimal": "33",
+        "count": 7,
+        "progression": 0
+    },
+    {
+        "type": "Ammo",
+        "name": "Acid Rounds",
+        "decimal": "36",
+        "count": 6,
+        "progression": 0
+    },
+    {
+        "type": "Ammo",
+        "name": "Napalm Rounds",
+        "decimal": "37",
+        "count": 6,
+        "progression": 0
+    },
+    {
+        "type": "Ammo",
+        "name": "Magnum Rounds",
+        "decimal": "34",
+        "count": 6,
+        "progression": 0
+    },
+
+
+    {
+        "name": "Victory",
+        "id": null,
+        "progression": 1
+    }
+]
+
+
+

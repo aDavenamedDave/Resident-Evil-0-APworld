@@ -1,0 +1,677 @@
+[ 
+    { 
+        "from": "Menu",
+        "to": "Passenger Car 1",
+        "condition": {}
+    },
+    { 
+        "from": "Passenger Car 1",
+        "to": "Passenger Car 2",
+        "condition": {}
+    },
+    { 
+        "from": "Passenger Car 2",
+        "to": "Officer's Car",
+        "condition": {}
+    },
+    { 
+        "from": "Officer's Car",
+        "to": "Cabin 202",
+        "condition": {}
+    },
+    { 
+        "from": "Officer's Car",
+        "to": "Cabin 201",
+        "condition": {}
+    },
+    { 
+        "from": "Officer's Car",
+        "to": "Conductor's Office",
+        "condition": {
+            "items": ["Conductor's Key"]
+        }
+    },
+    { 
+        "from": "Officer's Car",
+        "to": "Engine Carriage",
+        "condition": {
+            "items": ["Briefcase - Blue Keycard", "Gold Ring", "Jewelry Box - Silver Ring"]
+        }
+    },
+    { 
+        "from": "Engine Carriage",
+        "to": "Engine Cab",
+        "condition": {}
+    },
+    { 
+        "from": "Passenger Car 1",
+        "to": "Dining Car",
+        "condition": {
+            "items": ["Dining Car Key"]
+        }
+    },
+    { 
+        "from": "Dining Car",
+        "to": "Freight Car",
+        "condition": {
+            "items": ["Panel Opener"]
+        }
+    },
+    { 
+        "from": "Freight Car",
+        "to": "Rear Carriage",
+        "condition": {}
+    },
+    { 
+        "from": "Dining Car",
+        "to": "Restaurant Car",
+        "condition": {}
+    },
+    { 
+        "from": "Service Room",
+        "to": "Restaurant Car",
+        "condition": {
+            "items": ["Ice Pick"]
+        },
+        "limitation": "ONE_SIDED_DOOR"
+    },
+    {
+        "from": "Restaurant Car",
+        "to": "Dining Car Roof"
+    },
+    { 
+        "from": "Dining Car Roof",
+        "to": "Service Room",
+        "condition": {},
+        "limitation": "ONE_SIDED_DOOR"
+    },
+    { 
+        "from": "Conductor's Office",
+        "to": "Bar Lounge",
+        "condition": {}
+    },
+    { 
+        "from": "Bar Lounge",
+        "to": "Upstairs Passenger Car",
+        "condition": {}
+    },
+    { 
+        "from": "Upstairs Passenger Car",
+        "to": "Cabin 101",
+        "condition": {}
+    },
+    { 
+        "from": "Passenger Car 2",
+        "to": "Officer's Car Roof",
+        "condition":{
+            "items": ["Hookshot"]
+        },
+        "limitation": "ONE_SIDED_DOOR"
+    },
+    { 
+        "from": "Officer's Car Roof",
+        "to": "Cabin 102",
+        "condition": {},
+        "limitation": "ONE_SIDED_DOOR"
+    },
+    { 
+        "from": "Cabin 102",
+        "to": "Upstairs Passenger Car",
+        "condition": {},
+        "limitation": "ONE_SIDED_DOOR"
+    },
+    { 
+        "from": "Engine Cab",
+        "to": "Train Passage",
+        "condition": {
+            "items": ["Hookshot", "Briefcase - Blue Keycard", "Magnetic Card", "Ice Pick", "Dining Car Key", "Conductor's Key", "Panel Opener", "Gold Ring", "Jewelry Box - Silver Ring"]
+        }
+    },
+    { 
+        "from": "Train Passage",
+        "to": "Sewer Passage",
+        "condition": {}
+    },
+    
+    { 
+        "from": "Sewer Passage",
+        "to": "Main Hall",
+        "condition": {}
+    },
+    { 
+        "from": "Main Hall",
+        "to": "Training Facility Entrance",
+        "condition": {
+            "items": ["MO Disk"]
+        }
+    },
+    { 
+        "from": "Main Hall",
+        "to": "West Wing Corridor",
+        "condition": {
+            "items": []
+        }
+    },
+    { 
+        "from": "Main Hall",
+        "to": "Dining Room",
+        "condition": {
+            "items": []
+        }
+    },
+    { 
+        "from": "Main Hall",
+        "to": "Lecture Room",
+        "condition": {
+            "items": []
+        }
+    },
+    { 
+        "from": "Main Hall",
+        "to": "Living Room",
+        "condition": {}
+    },
+    { 
+        "from": "Large Hall",
+        "to": "Main Hall",
+        "condition": {
+            "items":[]
+        },
+        "limitation":"ONE_SIDED_DOOR"
+    },
+    { 
+        "from": "Main Hall",
+        "to": "Private Study Room",
+        "condition": {
+            "items":["Iron Needle", "Crank Handle"]
+        }
+    },
+    { 
+        "from": "West Wing Corridor",
+        "to": "Bathroom",
+        "condition": {
+            "items": []
+        }
+    },
+    { 
+        "from": "West Wing Corridor",
+        "to": "Projection Room",
+        "condition": {
+            "items": ["Iron Needle", "Crank Handle"]
+        }
+    },
+    { 
+        "from": "Dining Room",
+        "to": "Kitchen",
+        "condition": {
+            "items": ["Fire Key"]
+        }
+    },
+    { 
+        "from": "Dining Room",
+        "to": "Boiler Room",
+        "condition": {}
+    },
+    { 
+        "from": "Large Hall",
+        "to": "Art Room",
+        "condition": {
+            "items": []
+        }
+    },
+    {
+        "from": "Boiler Room",
+        "to": "1F Storage Room",
+        "condition":{}
+    },
+    {
+        "from": "1F Storage Room",
+        "to": "Outside Balcony",
+        "condition":{}
+    },
+    {
+        "from": "Outside Balcony",
+        "to": "Lecture Room",
+        "condition":{},
+        "limitation":"ONE_SIDED_DOOR"
+    },
+    {
+        "from":"Large Hall",
+        "to": "Observatory Tower",
+        "condition":{
+            "items":["MO Disk"]
+        }
+    },
+    {
+        "from": "Lecture Room",
+        "to": "Private Corridor",
+        "condition":{
+            "items": ["MO Disk"]
+        }
+    },
+    {
+        "from": "Clock Room",
+        "to": "Fountain Area",
+        "condition":{}
+    },
+    {
+        "from": "Fountain Area",
+        "to": "Large Hall",
+        "condition":{
+            "items": []
+        }
+    },
+
+    {
+        "from": "Art Room",
+        "to": "Narrow Corridor A",
+        "condition":{
+            "items":["Water Key"]
+        }
+    },
+    {
+        "from": "Narrow Corridor A",
+        "to": "Broadcast Room",
+        "condition":{
+            "items": []
+        }
+    },
+    {
+        "from": "Narrow Corridor A",
+        "to": "Narrow Corridor B",
+        "condition":{}
+    },
+    {
+        "from": "Narrow Corridor A",
+        "to": "Piano Bar",
+        "condition":{}
+    },
+    {
+        "from": "Art Corridor",
+        "to": "Assistant Director's Office",
+        "condition":{
+            "items": ["Fire Key"]
+        }
+    },
+    {
+        "from": "Lecture Room",
+        "to": "Art Corridor",
+        "condition":{}
+    },
+    {
+        "from": "Main Library",
+        "to": "Small Library",
+        "condition":{
+            "items":["Lighter Fluid"]
+        }
+    },
+    {
+        "from": "Private Corridor",
+        "to": "Medicine Room",
+        "condition":{}
+    },
+    {
+        "from": "Private Corridor",
+        "to": "Marcus' Office",
+        "condition":{}
+    },
+    {
+        "from": "Main Hall",
+        "to": "Basement Entrance",
+        "condition":{
+            "items":["Black Statue", "White Statue", "Book of Evil - Black Wing", "Book of Good - Angel Wings"]
+        }
+    },
+    {
+        "from": "Basement Entrance",
+        "to": "Monitor Room",
+        "condition":{}
+    },
+    {
+        "from": "Basement Entrance",
+        "to": "Observation Room",
+        "condition":{}
+    },
+    {
+        "from": "Observation Room",
+        "to": "Torture Room A",
+        "condition":{}
+    },
+    {
+        "from": "Monitor Room",
+        "to": "Torture Room B",
+        "condition":{}
+    },
+    {
+        "from": "Boiler Room",
+        "to": "Statue Room",
+        "condition":{
+            "region":["Torture Room B"]
+        }
+    },
+    {
+        "from": "Statue Room",
+        "to": "Basement Storage Room",
+        "condition":{}
+    },
+    {
+        "from": "Statue Room",
+        "to": "Bunk Room A",
+        "condition":{}
+    },
+    {
+        "from": "Statue Room",
+        "to": "Bunk Room B",
+        "condition":{}
+    },
+    {
+        "from": "Statue Room",
+        "to": "Cavernous Area",
+        "condition":{}
+    },
+    {
+        "from": "Cavernous Area",
+        "to": "Waterfall Room",
+        "condition":{}
+    },
+    {
+        "from": "Cavernous Area",
+        "to": "Training Room",
+        "condition":{}
+    },
+    {
+        "from": "Observatory Tower",
+        "to": "Outside Area",
+        "condition":{
+            "items":["Unity Tablet", "Obedience Tablet", "Discipline Tablet"]
+        }
+    },
+    {
+        "from": "Observatory Tower",
+        "to": "Outside Balcony",
+        "condition":{
+            "items":["Unity Tablet", "Obedience Tablet", "Discipline Tablet"]
+        }
+    },
+    {
+        "from": "Outside Area",
+        "to": "Church",
+        "condition":{}
+    },
+    {
+        "from": "Church",
+        "to": "Church Back Room",
+        "condition":{}
+    },
+    {
+        "from": "Church",
+        "to": "Church Roof",
+        "condition":{
+            "items":["Hookshot"]
+        }
+    },
+    {
+        "from": "Outside Area",
+        "to": "Elevator Passage",
+        "condition":{
+            "region":["Church Roof"]
+        }
+    },
+    {
+        "from": "Elevator Passage",
+        "to": "Machine Room 1F",
+        "condition":{}
+    },
+    {
+        "from": "Elevator Passage",
+        "to": "Reference Room",
+        "condition":{}
+    },
+    {
+        "from": "Reference Room",
+        "to": "Leech Room",
+        "condition":{
+            "items":["Hookshot"]
+        }
+    },
+    {
+        "from": "Leech Room",
+        "to": "Lab Corridor",
+        "condition":{}
+    },
+    {
+        "from": "Elevator Passage",
+        "to": "Marcus' Study",
+        "condition":{}
+    },
+    {
+        "from": "Marcus' Study",
+        "to": "Marcus' Private Room",
+        "condition":{}
+    },
+    {
+        "from": "Lab Corridor",
+        "to": "Leech Laboratory",
+        "condition":{}
+    },
+    {
+        "from": "Leech Laboratory",
+        "to": "Operating Room",
+        "condition":{}
+    },
+    {
+        "from": "Operating Room",
+        "to": "Morgue",
+        "condition":{}
+    },
+    {
+        "from": "Lab Corridor",
+        "to": "Breeding Room",
+        "condition":{
+            "items":["Breeding Room Key"]
+        }
+    },
+    {
+        "from": "Machine Room 1F",
+        "to": "Machine Room 2F",
+        "condition":{
+            "items":["Hookshot"]
+        }
+    },
+    {
+        "from": "Machine Room 1F",
+        "to": "Cable Car",
+        "condition":{}
+    },
+    {
+        "from": "Cable Car",
+        "to": "Platform",
+        "condition":{
+            "items":["Input Reg. Coil", "Output Reg. Coil"]
+        }
+    },
+    {
+        "from": "Platform",
+        "to": "Turntable Yard",
+        "condition":{}
+    },
+    {
+        "from": "Turntable Yard",
+        "to": "Turntable Control Room",
+        "condition":{}
+    },
+    {
+        "from": "Platform",
+        "to": "Maintenance Shaft",
+        "condition":{}
+    },
+    {
+        "from": "Maintenance Shaft",
+        "to": "Elevator",
+        "condition":{
+            "items":["Elevator Key"]
+        }
+    },
+    {
+        "from": "Elevator",
+        "to": "Train Passage",
+        "condition":{},
+        "limitation":"ONE_SIDED_DOOR"
+    },
+    {
+        "from": "Elevator",
+        "to": "Turntable Platform",
+        "condition":{}
+    },
+    {
+        "from": "Turntable Yard",
+        "to": "Turntable Monitor Room",
+        "condition":{}
+    },
+    {
+        "from": "Turntable Yard",
+        "to": "Turntable Platform",
+        "condition":{},
+        "limitation":"ONE_SIDED_DOOR"
+    },
+    {
+        "from": "Elevator",
+        "to": "Bridge",
+        "condition":{}
+    },
+    {
+        "from": "Bridge",
+        "to": "Treatment Control Room",
+        "condition":{}
+    },
+    {
+        "from": "Treatment Control Room",
+        "to": "Air Regulator Room",
+        "condition":{}
+    },
+    {
+        "from": "Air Regulator Room",
+        "to": "'L' Corridor",
+        "condition":{}
+    },
+    {
+        "from": "'L' Corridor",
+        "to": "Generator Room 1F",
+        "condition":{}
+    },
+    {
+        "from": "Generator Room 1F",
+        "to": "Generator Room 2F",
+        "condition":{}
+    },
+    {
+        "from": "'L' Corridor",
+        "to": "Rec Room",
+        "condition":{}
+    },
+    {
+        "from": "Generator Room 1F",
+        "to": "B6 Walkway",
+        "condition":{}
+    },
+    {
+        "from": "B6 Walkway",
+        "to": "Lodgings",
+        "condition":{}
+    },
+    {
+        "from": "Lodgings",
+        "to": "Purification Room",
+        "condition":{}
+    },
+    {
+        "from": "Purification Room",
+        "to": "B7 Walkway",
+        "condition":{}
+    },
+    {
+        "from": "B7 Walkway",
+        "to": "Cargo Control Room",
+        "condition":{}
+    },
+    {
+        "from": "Cargo Control Room",
+        "to": "Floodgate Control Room",
+        "condition":{}
+    },
+    {
+        "from": "Rec Room",
+        "to": "Maintenance Area",
+        "condition":{}
+    },
+    {
+        "from": "Maintenance Area",
+        "to": "Water Pool",
+        "condition":{}
+    },
+    {
+        "from": "Water Pool",
+        "to": "Stairway",
+        "condition":{}
+    },
+    {
+        "from": "Stairway",
+        "to": "Dumping Area",
+        "condition":{}
+    },
+    {
+        "from": "Dumping Area",
+        "to": "TP Laboratory",
+        "condition":{}
+    },
+    {
+        "from": "TP Laboratory",
+        "to": "Floodgate Control Room",
+        "condition":{}
+    },
+    {
+        "from": "TP Laboratory",
+        "to": "Laboratory Cryo Room",
+        "condition":{}
+    },
+    {
+        "from": "Laboratory Cryo Room",
+        "to": "Engine Room",
+        "condition":{}
+    },
+    {
+        "from": "Engine Room",
+        "to": "Dam",
+        "condition":{}
+    },
+    {
+        "from": "Dam",
+        "to": "Water Treatment Room",
+        "condition":{}
+    },
+    {
+        "from": "Water Treatment Room",
+        "to": "Water Treatment Walkway",
+        "condition":{}
+    },
+    {
+        "from": "Engine Room",
+        "to": "Fenced Area",
+        "condition":{}
+    },
+    {
+        "from": "Fenced Area",
+        "to": "Incinerator",
+        "condition":{}
+    },
+    {
+        "from": "Incinerator",
+        "to": "Incinerator Storage" ,
+        "condition":{}
+    },
+    {
+        "from": "Incinerator Storage",
+        "to": "Cargo Room",
+        "condition":{}
+    }
+]
